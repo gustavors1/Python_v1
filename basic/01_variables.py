@@ -38,3 +38,8 @@ name = 35
 age = "Gustavo"
 print(name)
 print(age)
+
+# ¿Forzamos el tipo? En Python el tipado es dinámico, tener cuidado.
+addres: str = "Mi dirección"
+addres = True
+print(type(addres))

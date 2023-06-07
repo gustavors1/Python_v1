@@ -1,0 +1,6 @@
+Mi nombre es Gustavo
+Mi apellido es Rivera
+29 años
+Y mi lenguaje preferido es Python
+Aunque también me gusta Kotlin
+Y Swift
